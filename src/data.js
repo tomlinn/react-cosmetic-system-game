@@ -1,0 +1,33 @@
+export const productsData = {
+    status: "success",
+    message: "Products retrieved successfully",
+    data: [
+        { price: 9, type: 0, owned: false, url: "assets/images/characters/ca_top_afulo.gif" },
+        { price: 2, type: 0, owned: true, url: "assets/images/characters/ca_all_nude.gif" },
+        { price: 3, type: 0, owned: true, url: "assets/images/characters/ca_back_redbull.gif" },
+        { price: 4, type: 0, owned: true, url: "assets/images/characters/ca_face_eye_cover.gif" },
+        { price: 5, type: 0, owned: true, url: "assets/images/characters/ca_mask_1.gif" },
+        { price: 6, type: 0, owned: true, url: "assets/images/characters/ca_mask_cat.gif" },
+        { price: 4, type: 0, owned: true, url: "assets/images/characters/ca_top_a_re_gu.gif" },
+        { price: 5, type: 0, owned: true, url: "assets/images/characters/ca_mask_sk.gif" },
+        { price: 6, type: 0, owned: true, url: "assets/images/characters/ca_top_AI.gif" },
+        { price: 1, type: 0, owned: true, url: "assets/images/characters/ca_top_buger.gif" },
+        { price: 2, type: 0, owned: true, url: "assets/images/characters/ca_top_cap.gif" },
+        { price: 3, type: 0, owned: true, url: "assets/images/characters/ca_top_hat.gif" },
+        { price: 4, type: 0, owned: true, url: "assets/images/characters/ca_top_holy.gif" },
+        { price: 5, type: 0, owned: true, url: "assets/images/characters/ca_top_horror.gif" },
+        { price: 6, type: 0, owned: true, url: "assets/images/characters/ca_top_king.gif" },
+        { price: 4, type: 0, owned: true, url: "assets/images/characters/ca_top_miku.gif" },
+        { price: 5, type: 0, owned: true, url: "assets/images/characters/ca_top_onepice.gif" },
+        { price: 6, type: 0, owned: true, url: "assets/images/characters/ca_top_shark.gif" },
+        { price: 1, type: 1, owned: true, url: "assets/images/characters/ca_all_cow.gif" },
+        { price: 2, type: 1, owned: true, url: "assets/images/characters/ca_all_cyber.gif" },
+        { price: 3, type: 1, owned: true, url: "assets/images/characters/ca_all_dico.gif" },
+        { price: 4, type: 1, owned: true, url: "assets/images/characters/ca_all_cool.gif" },
+        { price: 5, type: 1, owned: true, url: "assets/images/characters/ca_all_bug.gif" },
+        { price: 6, type: 1, owned: true, url: "assets/images/characters/ca_all_bearTW.gif" },
+        { price: 4, type: 1, owned: true, url: "assets/images/characters/ca_all_jojo.gif" },
+        { price: 5, type: 1, owned: true, url: "assets/images/characters/ca_all_zombi.gif" },
+        { price: 6, type: 1, owned: true, url: "assets/images/characters/ca_all_nuclear.gif" }
+    ]
+  };
